@@ -84,6 +84,15 @@ input[type="submit"].primary:hover {
   background: #f8f8f7 !important;
 }
 
+.list-card-labels {
+  margin-left: 2px !important;
+}
+
+.list-card-details {
+  padding-top: 2px !important;
+  padding-left: 2px !important;
+}
+
 .list-card-composer-textarea {
   background: #fff !important;
 }
