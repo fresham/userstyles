@@ -10,6 +10,14 @@ h3 {
   font-weight:300 !important;
 }
 
+input[type="submit"].primary {
+  background: /*[[primary-color]]*/ !important;
+}
+
+input[type="submit"].primary:hover {
+  background: /*[[secondary-color]]*/ !important;
+}
+
 #header {
   background: /*[[primary-color]]*/ !important;
   padding: 5px 11px;
@@ -84,6 +92,8 @@ h3 {
 /* options */
 
 /* primary-color #db5c29 */
+
+/* secondary-color #c44f21 */
 
 /* hide-gold-crown */
 /* Yes
