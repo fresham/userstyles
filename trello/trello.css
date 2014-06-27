@@ -16,7 +16,7 @@ h3 {
 }
 
 .header-boards {
-  background: none;
+  background: none !important;
 }
 
 .header-user {
