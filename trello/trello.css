@@ -59,6 +59,11 @@ h3 {
   background: #f8f8f7 !important;
 }
 
+.list-header-name {
+  font-weight: 300;
+  color: /*[[primary-color]]*/;
+}
+
 .list-card {
   background: #f8f8f7 !important;
 }
