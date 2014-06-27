@@ -15,6 +15,14 @@ h3 {
   padding: 5px 11px;
 }
 
+.header-btn-text {
+  font-weight: 300;
+}
+
+.board-header-btn-text {
+  font-weight: 300;
+}
+
 .header-boards {
   background: none !important;
 }
