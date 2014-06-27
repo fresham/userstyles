@@ -88,6 +88,10 @@ input[type="submit"].primary:hover {
   margin-left: 2px !important;
 }
 
+.card-label {
+  border-radius: 2px !important;
+}
+
 .list-card-details {
   padding-top: 2px !important;
   padding-left: 2px !important;
